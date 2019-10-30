@@ -12,4 +12,4 @@ In the menu I put three links:
 
 On the Services page, the user can add a service and see it in a list.
 
-In the customer page, a **CRUD system** is used to manage the customer list.
+In the Customers page, a **CRUD system** is used to manage the customer list.
