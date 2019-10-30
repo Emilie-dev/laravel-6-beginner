@@ -1,8 +1,8 @@
 # laravel-6-beginner
 
-This project allowed me to work with _Laravel 6_.
+This project allowed me to work with **Laravel 6**.
 
-In this project I work with a _sqlite database_. All information entered by the user is saved in the database.
+In this project I work with a **sqlite database**. All information entered by the user is saved in the database.
 
 In the menu I put three links:
 
@@ -12,4 +12,4 @@ In the menu I put three links:
 
 On the Services page, the user can add a service and see it in a list.
 
-In the customer page, a _CRUD system_ is used to manage the customer list.
+In the customer page, a **CRUD system** is used to manage the customer list.
