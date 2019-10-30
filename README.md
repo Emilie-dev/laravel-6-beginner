@@ -2,7 +2,7 @@
 
 This project allowed me to work with **Laravel 6**.
 
-In this project I work with a **sqlite database**. All information entered by the user is saved in the database.
+In this project I work with a **MySQL database**. All information entered by the user is saved in the database.
 
 In the menu I put three links:
 
